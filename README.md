@@ -1,4 +1,6 @@
 # Onova.ReleaseNotes
+[![Version](https://img.shields.io/nuget/v/Onova.ReleaseNotes)](https://nuget.org/packages/Onova.ReleaseNotes)  
+
 [Onova](https://github.com/Tyrrrz/Onova) extension that provides support for release notes.
 
 ## Documentation
