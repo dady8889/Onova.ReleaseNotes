@@ -6,6 +6,7 @@
     <Description>Onova extension that provides support for release notes.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>onova releasenotes changelog extension</PackageTags>
+    <PackageProjectUrl>https://github.com/dady8889/Onova.ReleaseNotes</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
